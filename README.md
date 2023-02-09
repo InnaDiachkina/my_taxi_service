@@ -1,4 +1,4 @@
-﻿# Taxi-service
+﻿# Taxi Service
 
 Taxi Service is the functional model for business in Transport Service. We have the opportunity to display current 
 list drivers and cars. Also, we have the opportunity to update, add and delete information about them. 
